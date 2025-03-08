@@ -1,2 +1,14 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Eu2FmBb3)
 # Event-Ticketing-System
+
+Front-end
+- next15
+- react
+- tailwindCSS
+
+Users storys 1 and 2
+paths
+/           --> home list of events
+/event/[id] --> event detail page
+/book/[id]  --> form where client buys a Ticket (not finished)*
+
+* I know the task was intended to do a checkout from the detail page but I misunderstood and when I realize was too late
